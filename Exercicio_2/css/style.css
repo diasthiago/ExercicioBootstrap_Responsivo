@@ -1,0 +1,19 @@
+body {
+	padding-top: 20px;
+	padding-bottom: 40px;
+}
+
+.cor-aviao{
+    color: #1b8ab9;
+}
+
+.caixa {
+	background: #dae6eb;
+    padding: 20px;
+    margin-top: 10px;
+}
+
+.borda{
+    border-top: 1px dotted #377b8e;
+    margin: 20px 0px;
+}
